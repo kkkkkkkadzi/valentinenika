@@ -20,7 +20,7 @@ export default function TextFooter() {
       <h1
         className={`absolute right-10 bottom-5 transform -translate-y-1/2 text-white text-4xl lg:text-5xl font-bold leading-tight text-right ${playfairDisplay.className}`}
       >
-        Чтобы открыть <br /> <span className="text-gray-400">сюрприз</span>
+        И открой <br /> <span className="text-gray-400">сюрприз</span>
       </h1>
 
       {/* Copyright */}
